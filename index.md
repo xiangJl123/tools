@@ -16,5 +16,10 @@
     Reg
     Date
     Symbol(了解不多)
+    device(Android,ios,PC)
+    存储方式
+    Browser
     还有一些新增的ES6  等等
+
+    后续还可新增vue,和react相关插件
 
