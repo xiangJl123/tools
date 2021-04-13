@@ -1,0 +1,24 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "collect tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiangJl123/tools.git"
+  },
+  "keywords": [
+    "js",
+    "html",
+    "css"
+  ],
+  "author": "xiangjinlu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiangJl123/tools/issues"
+  },
+  "homepage": "https://github.com/xiangJl123/tools#readme"
+}
